@@ -8,6 +8,7 @@ namespace VSGitHubTestApp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Code modified");
+            Console.WriteLine("Code commite in local Repo");
         }
     }
 }
