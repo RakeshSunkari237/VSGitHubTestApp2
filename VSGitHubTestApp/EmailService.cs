@@ -12,6 +12,7 @@ namespace VSGitHubTestApp
         public void sendEmail()
         {
             Console.WriteLine("Email Service added");
+            Console.WriteLine("Gmail notificatin sent");
         }
     }
 }
